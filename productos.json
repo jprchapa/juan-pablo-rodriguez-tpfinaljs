@@ -1,0 +1,42 @@
+[
+    { "nombre": "Mayonesa Natura X 237 Gr", "precio": 250, "tipo": "almacen", "id": "1", "imagen": "./multimedia/productos/mayonesa.jpg" },
+
+    { "nombre": "Galletitas Dulces Rellenas Con Crema Oreo 118g", "precio": 380, "tipo": "almacen", "id": "2", "imagen": "./multimedia/productos/oreo.jpg"  },
+
+    { "nombre": "Harina Pureza Ultra Refinada 000 X 1kg", "precio": 240, "tipo": "almacen", "id": "3", "imagen": "./multimedia/productos/harina.jpg" },
+    
+    { "nombre": "Aceite Girasol Pureza 0,9l", "precio": 800, "tipo": "almacen", "id": "4", "imagen": "./multimedia/productos/aceite.jpg"  },
+
+    { "nombre": "Arroz Molinos Ala Larg Fino Gs X1kg", "precio": 600, "tipo": "almacen", "id": "5", "imagen": "./multimedia/productos/arroz.jpg" },
+
+    { "nombre": "Yerba Mate Playadito Suave X1kg", "precio": 2500, "tipo": "almacen", "id": "6", "imagen": "./multimedia/productos/yerba.jpg"  },
+
+    { "nombre": "Vino Alma Mora Malbec 750cc", "precio": 2000, "tipo": "bebidas", "id": "7", "imagen": "./multimedia/productos/almamora.jpg"  },
+
+    { "nombre": "Vino Viñas De Balbo Borgoña", "precio": 1700, "tipo": "bebidas", "id": "8", "imagen": "./multimedia/productos/balbo.jpg"  },
+
+    { "nombre": "Agua Benedictino S/gas 2,25", "precio": 350, "tipo": "bebidas", "id": "9", "imagen": "./multimedia/productos/benedictino.jpg"  },
+
+    { "nombre": "Gaseosa 7up Regular 2,45lt", "precio": 900, "tipo": "bebidas", "id": "10", "imagen": "./multimedia/productos/7up.jpg"  },
+
+    { "nombre": "Gaseosa Coca Cola Regular 2.25lt", "precio": 1000, "tipo": "bebidas", "id": "11", "imagen": "./multimedia/productos/coca.jpg"  },
+
+    { "nombre": "Cerveza Heineken 150 Años 1lt Ret.", "precio": 1600, "tipo": "bebidas", "id": "12", "imagen": "./multimedia/productos/heineken1.jpg"  },
+
+    { "nombre": "Manteca La Paulina 200 Gr", "precio": 990, "tipo": "lacteos", "id": "13", "imagen": "./multimedia/productos/manteca.jpg"  },
+
+    { "nombre": "Leche Entera Ls 3% B.animal Sachet 1l", "precio": 460, "tipo": "lacteos", "id": "14", "imagen": "./multimedia/productos/leche.jpg"  },
+
+    { "nombre": "D.leche La Serenisima Clasico 400g", "precio": 850, "tipo": "lacteos", "id": "15", "imagen": "./multimedia/productos/dulcedl.jpg"  },
+
+    { "nombre": "Yogur Firme Ffs Entero Vainilla X120g", "precio": 120, "tipo": "lacteos", "id": "16", "imagen": "./multimedia/productos/yogur.jpg"  },
+    
+    { "nombre": "Detergente Líquido Magistral Limón Ultra 500 Ml", "precio": 1000, "tipo": "limpieza", "id": "17", "imagen": "./multimedia/productos/detergente.jpg"  },
+
+    { "nombre": "Poett Desinf. Frescura De Lavanda 1.8ml", "precio": 600, "tipo": "limpieza", "id": "18", "imagen": "./multimedia/productos/poet.jpg"  },
+
+    { "nombre": "Jabon Ropa Skip Bio Enzimas Diluible 500", "precio": 2670, "tipo": "limpieza", "id": "19", "imagen": "./multimedia/productos/skip.jpg"  },
+
+    { "nombre": "Jabon Compacto Zorro Clásico 150gs", "precio": 210, "tipo": "limpieza", "id": "20", "imagen": "./multimedia/productos/zorro.jpg"  }    
+    
+]
